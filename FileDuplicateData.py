@@ -23,7 +23,7 @@ class FileDuplicateData:
         return ([self._original] + self._duplicates)
 
 
-    # returns whether htis dupeData obejct has valid duplicates
+    # returns whether this dupeData obejct has valid duplicates
     def HasDuplicates(self):
         return (len(self._duplicates)>0)
 
