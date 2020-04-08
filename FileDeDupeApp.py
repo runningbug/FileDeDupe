@@ -23,7 +23,7 @@ from FileDeDupe import FileDeDupe
 
 try:
 
-    pro = "FileDeDupe DELETES FILES FROM YOU FILE SYSTEM. ONLY USE ON A _COPY_ OF YOUR DATA. YOU USE THIS PROGRAM AT YOUR OWN RISK!"
+    pro = "FileDeDupe DELETES FILES FROM YOUR FILE SYSTEM. ONLY USE ON A _COPY_ OF YOUR DATA. YOU USE THIS PROGRAM AT YOUR OWN RISK!"
 
     ep =  "FileDeDupe searches the file system and finds which files are identical. "
     ep += "It then determines which file out of the set is the original and deletes all duplicates. "
